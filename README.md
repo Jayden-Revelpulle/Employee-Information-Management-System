@@ -17,48 +17,48 @@ Welcome to proFile, an Employee Information Management System designed to stream
  - Exit the program
 ## Usage
 1. **Add a new employee**
-- Choose option 1 from the menu.
-- Enter the employee's first name and last name.
-- Enter the names of dependents one by one.
-- Confirm if you have more dependents.
-- The system will generate a unique empId for the employee.
+ - Choose option 1 from the menu.
+ - Enter the employee's first name and last name.
+ - Enter the names of dependents one by one.
+ - Confirm if you have more dependents.
+ - The system will generate a unique empId for the employee.
 
 2. **Print data of all employees**
-- Choose option 2 from the menu.
-- The system will display the information of all employees.
+ - Choose option 2 from the menu.
+ - The system will display the information of all employees.
 
 3. **Print employee data at position n**
-- Choose option 3 from the menu.
-- Enter the position of the employee you want to view.
-- The system will display the information of the selected employee.
+ - Choose option 3 from the menu.
+ - Enter the position of the employee you want to view.
+ - The system will display the information of the selected employee.
 
 4. **View employee data based on empId**
-- Choose option 4 from the menu.
-- Enter the empId of the employee you want to view.
-- The system will display the information of the employee with the given empId.
+ - Choose option 4 from the menu.
+ - Enter the empId of the employee you want to view.
+ - The system will display the information of the employee with the given empId.
 
 5. **View employee data based on full name**
-- Choose option 5 from the menu.
-- Enter the full name (first name + last name) of the employee you want to view.
-- The system will display the information of the employee with the given full name.
+ - Choose option 5 from the menu.
+ - Enter the full name (first name + last name) of the employee you want to view.
+ - The system will display the information of the employee with the given full name.
 
 6. **Count number of employees**
-- Choose option 6 from the menu.
-- The system will display the total number of employees.
+ - Choose option 6 from the menu.
+ - The system will display the total number of employees.
 
 7. **Sort employee data by empId**
-- Choose option 7 from the menu.
-- The system will sort the employees based on their empId and display the sorted list.
+ - Choose option 7 from the menu.
+ - The system will sort the employees based on their empId and display the sorted list.
 
 8. **Fire the nth employee**
-- Choose option 8 from the menu.
-- Enter the position of the employee you want to fire.
-- The system will remove the selected employee from the list.
+ - Choose option 8 from the menu.
+ - Enter the position of the employee you want to fire.
+ - The system will remove the selected employee from the list.
 
 9. **Fire all employees**
-- Choose option 9 from the menu.
-- Confirm that you want to remove all employees.
-- The system will remove all employees from the list.
+ - Choose option 9 from the menu.
+ - Confirm that you want to remove all employees.
+ - The system will remove all employees from the list.
 ## How to Run
 1. Hit > on the keyboard to use github        codespaces  OR
 
