@@ -17,7 +17,7 @@ Welcome to proFile, an Employee Information Management System designed to stream
  - Exit the program
 ## Usage
 1. **Add a new employee**
-  - Choose option 1 from the menu.
+ -  Choose option 1 from the menu.
  - Enter the employee's first name and last name.
  - Enter the names of dependents one by one.
  - Confirm if you have more dependents.
