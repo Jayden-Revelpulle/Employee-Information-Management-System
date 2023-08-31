@@ -15,11 +15,11 @@ Exit the program.
 
 **Usage**
 1. Add a new employee
-Choose option 1 from the menu.
-Enter the employee's first name and last name.
-Enter the names of dependents one by one.
-Confirm if you have more dependents.
-The system will generate a unique empId for the employee.
+- Choose option 1 from the menu.
+- Enter the employee's first name and last name.
+- Enter the names of dependents one by one.
+- Confirm if you have more dependents.
+- The system will generate a unique empId for the employee.
 
 2. Print data of all employees
 Choose option 2 from the menu.
