@@ -5,16 +5,16 @@ Welcome to proFile, an Employee Information Management System designed to stream
 
 
 ## Features
-- Add a new employee with their personal information and dependent details
-- Print data of all employees in the system
-- Print data of a specific employee based on their position in the list
-- Search for employee information based on their empId
-- Search for employee information based on their full name
-- Count the total number of employees
-- Sort the employees based on their empId
-- Remove a specific employee from the list
-- Remove all employees from the list
-- Exit the program
+ - Add a new employee with their personal information and dependent details
+ - Print data of all employees in the system
+ - Print data of a specific employee based on their position in the list
+ - Search for employee information based on their empId
+ - Search for employee information based on their full name
+ - Count the total number of employees
+ - Sort the employees based on their empId
+ - Remove a specific employee from the list
+ - Remove all employees from the list
+ - Exit the program
 ## Usage
 1. **Add a new employee**
 - Choose option 1 from the menu.
