@@ -24,8 +24,6 @@ int main() {
 
     //fireAll
     char fire;
-
-    loadEmpData(&list, "proFile.txt"); //load data from proFile.txt to populate the linked list
     
     do {//prompt user for menu choice while choice between 1 and 10
         //print menu after each choice
