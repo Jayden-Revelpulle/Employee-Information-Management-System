@@ -77,5 +77,5 @@ Welcome to proFile, an Employee Information Management System designed to stream
 - This program uses a linked list to store employee data.
 - Upon running the program, 4 employees will automatically be loaded into the linked list
 - Employee empId is generated based on a specific formula.
-- The program prompts users to input data using the command line and performs various operations on the employee data.
+- The program prompts users to input data using the command line to perform operations on the employee data.
 - The program provides an interactive menu-driven command-line interface.
