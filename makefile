@@ -8,7 +8,7 @@ printOne.o: src/printOne.c include/headerA3.h
 		gcc -Wall -std=c99 -c src/printOne.c
 lookOnId.o: src/lookOnId.c include/headerA3.h
 		gcc -Wall -std=c99 -c src/lookOnId.c
-lookOnFullName.o: src/lookOnFullName.c src/helperA3.c include/headerA3.h
+lookOnFullName.o: src/lookOnFullName.c include/headerA3.h
 		gcc -Wall -std=c99 -c src/lookOnFullName.c
 countEmployees.o: src/countEmployees.c include/headerA3.h
 		gcc -Wall -std=c99 -c src/countEmployees.c
