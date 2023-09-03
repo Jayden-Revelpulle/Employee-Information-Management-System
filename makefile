@@ -1,5 +1,5 @@
-proFile: recruitEmployee.o printAll.o printOne.o lookOnId.o lookOnFullName.o sortEmployeesId.o countEmployees.o fireOne.o fireAll.o main.o
-		gcc -Wall -std=c99 recruitEmployee.o printAll.o printOne.o lookOnId.o lookOnFullName.o sortEmployeesId.o countEmployees.o fireOne.o fireAll.o main.o -o bin/proFile
+empFile: recruitEmployee.o printAll.o printOne.o lookOnId.o lookOnFullName.o sortEmployeesId.o countEmployees.o fireOne.o fireAll.o main.o
+		gcc -Wall -std=c99 recruitEmployee.o printAll.o printOne.o lookOnId.o lookOnFullName.o sortEmployeesId.o countEmployees.o fireOne.o fireAll.o main.o -o bin/empFile
 recruitEmployee.o: src/recruitEmployee.c include/header.h
 		gcc -Wall -std=c99 -c src/recruitEmployee.c
 printAll.o: src/printAll.c include/header.h
@@ -21,4 +21,4 @@ fireAll.o: src/fireAll.c include/header.h
 main.o: src/main.c include/header.h
 		gcc -Wall -std=c99 -c src/main.c
 clean:
-		rm *.o bin/proFile
+		rm *.o bin/empFile
