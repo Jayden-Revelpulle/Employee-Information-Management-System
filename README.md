@@ -62,7 +62,7 @@ Welcome to proFile, an Employee Information Management System designed to stream
 ## How to Run
 1. Hit > on the keyboard to use github        codespaces  OR
 
-   Clone the repository: git clone https://github.com/your-username/proFile.git
+   Clone the repository: git clone https://github.com/Jayden-Revelpulle/proFile.git
 
 2. Navigate to project directory:
    cd proFile
