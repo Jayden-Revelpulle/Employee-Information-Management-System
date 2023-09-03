@@ -62,16 +62,16 @@ Welcome to proFile, an Employee Information Management System designed to stream
 ## How to Run
 1. Hit > on the keyboard to use github        codespaces  OR
 
-   Clone the repository: git clone https://github.com/Jayden-Revelpulle/proFile.git
+   Clone the repository: git clone https://github.com/Jayden-Revelpulle/proFile.git](https://github.com/Jayden-Revelpulle/Employee-Information-Management-System.git
 
 2. Navigate to project directory:
-   cd proFile
+   cd Employee-Information-Management-System
 
 3. Compile the program:
-   make proFile
+   make empFile
 
 4. Run the program:
-   ./bin/proFile
+   ./bin/empFile
 
 ## Notes
 - This program uses a linked list to store employee data.
