@@ -1,5 +1,5 @@
 
-# proFile - Employee Information Management System
+# Employee Information Management System
 
 Welcome to proFile, an Employee Information Management System designed to streamline employee management processes for companies. With its user-friendly interface and robust functionality, proFile offers various features to manipulate employee data efficiently.
 
